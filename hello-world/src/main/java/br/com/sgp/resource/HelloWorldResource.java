@@ -8,7 +8,7 @@ public class HelloWorldResource {
 
 	@GetMapping("/hello")
 	public String helloWorld() {
-		return "Hello World!!!";
+		return "Hello World Red Hat OpenShift!!!";
 	}
 
 }
