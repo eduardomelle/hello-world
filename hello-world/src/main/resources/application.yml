@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: hello-world
+#spring:
+  #application:
+    #name: hello-world
     
-server:
-  port: 8081
+#server:
+  #port: 8081
